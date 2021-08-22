@@ -94,7 +94,9 @@ public class Enrollment implements Serializable {
 	public void setOnlyUpdate(Boolean onlyUpdate) {
 		this.onlyUpdate = onlyUpdate;
 	}
-	
-		
+
+	public Set<Lesson> getLessonsDone() {
+		return lessonsDone;
+	}	
 
 }
