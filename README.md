@@ -6,7 +6,7 @@
 
 O Ds-Learn é uma aplicação full stack que está sendo construída através do Bootcamp da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma plataforma de ensino remoto responsiva contruída usando o Spring Boot no backend e React-Js no frontend. As rotas e funcionalidades são protegidas com autorização e autenticação usando JWt e Oaut2
+A aplicação consiste em uma plataforma de ensino remoto responsiva contruída usando o Spring Boot no backend e React-Js no frontend. As rotas e funcionalidades são protegidas com autorização e autenticação usando JWT e Oauth2
 
 
 
